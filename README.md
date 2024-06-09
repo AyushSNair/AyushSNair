@@ -3,7 +3,7 @@
 <h3 align="center">Pursuing to be a full stack Web/App Developer</h3>
 <img align="right" width="400" src="https://images-cdn.exchange.art/o4B16ArbZ6L3eTrjqVdNJh3eVuD6cKskWaK5PTLyVfc?ext=fastly&width=500&optimize=high&format=pjpg&auto=webp">
 
-- 🔭 I’m currently working on **Business Graph App(Visual Pulse), Python Projects**
+- 🔭 I’m currently working on **Forecasting Of Stock Prices Using Web Scraping, Python Projects**
 
 - 🌱 I’m currently learning **Python, DeepLearning, Advanced Java**
 

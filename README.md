@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Forecasting Of Stock Prices Using Web Scraping, Python Projects**
 
-- 🌱 I’m currently learning *Web-Scraping, Time-Series Analyses, React, DeepLearning, Advanced Java**
+- 🌱 I’m currently learning *Web-Scraping, Time-Series Analyses, React**
 
 - 👯 I’m looking to collaborate on **Python, Java projects**
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Discord Clone using MERN Stack, Socket IO, WebRTC , Python Projects**
 
-- 🌱 I’m currently learning *Web-Scraping, Time-Series Analyses, React**
+- 🌱 I’m currently learning * SocketIO, webRTC**
 
 - 👯 I’m looking to collaborate on **Python, Java projects**
 

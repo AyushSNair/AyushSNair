@@ -3,11 +3,6 @@
 <h3 align="center">Pursuing to be a full stack Developer</h3>
 <img align="right" width="400" src="https://images-cdn.exchange.art/o4B16ArbZ6L3eTrjqVdNJh3eVuD6cKskWaK5PTLyVfc?ext=fastly&width=500&optimize=high&format=pjpg&auto=webp">
 
-- 🔭 I’m currently working on **Discord Clone using MERN Stack, Socket IO, WebRTC , Python Projects**
-
-- 🌱 I’m currently learning * SocketIO, webRTC**
-
-- 👯 I’m looking to collaborate on **Python, Java projects**
 
 - 📫 How to reach me **Discord @Ayush111#5268**
 
